@@ -1,0 +1,24 @@
+body {
+	background-color: #FFC2C2;
+	margin: 0;
+	min-width: 500px;
+}
+#contents {
+	background-color: #FF3131;
+	margin-top: 50px;
+	margin-left: calc(50% - 250px);
+	margin-right: calc(50% - 250px);
+	padding: 20px;
+	border-radius: 10px;
+}
+.important {
+	font-weight: bold;
+}
+h3 {
+	font-size: medium;
+	font-weight: normal;
+	font-style: italic;
+}
+#details {
+	font-size: smaller;
+}
